@@ -12,7 +12,7 @@ Once you've installed the prerequisites, run these commands in your terminal (CM
 
 1. Clone the repository (this will copy the source code into your current directory):
 ```bash
-git clone https://github.com/matthew-hajec/The-Gatheting-ITEC4750
+git clone https://github.com/matthew-hajec/The-Gathering-ITEC4750
 ```
 3. Move in the cloned directory:
 ```bash
